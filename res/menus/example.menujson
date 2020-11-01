@@ -1,0 +1,29 @@
+{
+	"menu":[
+		{
+			"type": "item",
+			"title": "Games",
+			"icon": "games",
+			"addr": "/game/"
+		},
+		{
+			"type": "item",
+			"title": "Book Online",
+			"icon": "book_online",
+			"addr": "/bookonline"
+		},
+		{
+			"type": "separator"
+		},
+    {
+      "type": "section",
+      "title": "menu section A",
+    },
+		{
+			"type": "item",
+			"title": "freezer",
+			"icon": "ac_unit",
+			"addr": "/freezer"
+		}
+	]
+}
