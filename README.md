@@ -1,6 +1,6 @@
 # gene-template
-Gene PHP Template Engine
-遺伝子雛形エンジン
+Gene PHP Template Engine<br>
+遺伝子雛形エンジン<br>
 (legacy compat name:"htsrc X v1" or "htsrcV10.1")
 ## License
 GNU AGPL v3
